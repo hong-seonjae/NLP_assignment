@@ -68,8 +68,9 @@ python3 main.py
 
 ## 📄 문서 및 참고 자료
 
-- [NLP_assignmnet_Analysis.pdf](https://www.notion.so/NLP_assignmnet_Analysis.pdf):
-보다 상세한 실험 결과와 분석 내용을 확인하고자 할 경우, 첨부된 PDF 문서(NLP_assignmnet_Analysis.pdf)를 참고하시기 바랍니다.
+- [`NLP_assignmnet_Analysis.pdf`](./NLP_assignment/Assignment_1/NLP_assignmnet_Analysis.pdf):  
+  보다 상세한 실험 결과와 분석 내용을 확인하고자 할 경우, 첨부된 PDF 문서를 클릭하여 확인할 수 있습니다.
+
 
 ---
 

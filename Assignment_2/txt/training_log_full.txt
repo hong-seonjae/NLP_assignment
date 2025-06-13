@@ -1,0 +1,20 @@
+Epoch 1: Train Loss = 0.2481
+Epoch 2: Train Loss = 0.1428
+Epoch 3: Train Loss = 0.1061
+Epoch 4: Train Loss = 0.0863
+Epoch 5: Train Loss = 0.0709
+Epoch 6: Train Loss = 0.0595
+Epoch 7: Train Loss = 0.0483
+Epoch 8: Train Loss = 0.0391
+Epoch 9: Train Loss = 0.0343
+Epoch 10: Train Loss = 0.0297
+Epoch 1: Train Loss=0.6386, Eval Loss=0.2827, Eval Acc=0.9002
+Epoch 2: Train Loss=0.3938, Eval Loss=0.3455, Eval Acc=0.8979
+Epoch 3: Train Loss=0.3116, Eval Loss=0.3467, Eval Acc=eva0.8968
+Epoch 4: Train Loss=0.3507, Eval Loss=0.3890, Eval Acc=0.8979
+Epoch 5: Train Loss=0.3073, Eval Loss=0.4340, Eval Acc=0.8968
+Epoch 6: Train Loss=0.3206, Eval Loss=0.4283, Eval Acc=0.9025
+Epoch 7: Train Loss=0.2992, Eval Loss=0.4610, Eval Acc=0.8979
+Epoch 8: Train Loss=0.2849, Eval Loss=0.5091, Eval Acc=0.9106
+Epoch 9: Train Loss=0.3144, Eval Loss=0.5420, Eval Acc=0.9037
+Epoch 10: Train Loss=0.2611, Eval Loss=0.5625, Eval Acc=0.9060
